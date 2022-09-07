@@ -1,0 +1,20 @@
+{
+    "title": "العنوان",
+    "addtask": "اضافة مهام",
+    "savechoosen": "حفظ التغيرات",
+    "updattask": "تعديل المهام",
+    "description": "الموضوع",
+    "selectedtime": "تحديد الوقت",
+    "successfully": "تمت الاضافه بنجاح",
+    "ok": "حسنا",
+    "pleaseentertasktitle": "الرجاء ادخال عنوان المهمه",
+     "pleaseentertaskdescription": "الرجاء ادخال موضوع المهمه",
+    "done": "تم!",
+    "numberoftasbeh": "Number of Tasbeh",
+    "english": "الانجليزيه",
+    "arabic": "العربيه",
+    "language": "اللغه",
+    "theme": "الوضع",
+    "dark": "الوضع المظلم",
+    "light": "الوضع المضيء"
+}

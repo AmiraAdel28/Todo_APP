@@ -1,0 +1,19 @@
+{
+    "title": "Title",
+    "addtask": "Add Task",
+    "savechoosen": "Save Choosen",
+    "updattask": "Edit Task",
+    "description": "Description",
+    "selectedtime": "Selected Time",
+    "successfully": "Successfully Added",
+    "ok": "Ok",
+    "done": "Done!",
+    "pleaseentertasktitle": "please Enter task title",
+    "pleaseentertaskdescription": "please Enter task Description",
+    "english": "English",
+    "arabic": "Arabic",
+    "language": "Language",
+    "theme": "Theme",
+    "dark": "Dark Mode",
+    "light": "Light Mode"
+}
